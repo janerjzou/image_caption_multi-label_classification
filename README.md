@@ -1,3 +1,3 @@
 # image_caption_multi-label_classification
 
-## Assignment of Deep Learning
+## Deep Learning 5329 - Assignment 2 (Group)
