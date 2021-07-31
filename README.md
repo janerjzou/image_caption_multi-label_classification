@@ -1,6 +1,6 @@
 # image_caption_multi-label_classification
 
-## Deep Learning 5329 - Assignment 2 (Group)
+## COMP5329 Deep Learning - Assignment 2 (Group)
 ### 15 Apr 2021 - 31 May 2021
 
 
